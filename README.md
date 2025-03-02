@@ -4,8 +4,7 @@
 
 This project is a MySQL-based system designed to monitor deliveries of grocery products to customers for a third party grocery service. The system coordinates with grocery stores to find products at competitive prices and arranges drone deliveries to customers.
 
-<img width="986" alt="image" src="https://github.com/user-attachments/assets/b22f7c6c-cb14-4b97-850a-077eb3a8e741" />
-
+<img width="975" alt="image" src="https://github.com/user-attachments/assets/f8198555-3db2-46d7-8f6f-86e0778ef621" />
 
 ## Key Features
 
