@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a MySQL-based system designed to monitor deliveries of grocery products to customers for a "third party" grocery service. The system coordinates with grocery stores to find products at competitive prices and arranges drone deliveries to customers.
+This project is a MySQL-based system designed to monitor deliveries of grocery products to customers for a third party grocery service. The system coordinates with grocery stores to find products at competitive prices and arranges drone deliveries to customers.
 
 ## Key Features
 
